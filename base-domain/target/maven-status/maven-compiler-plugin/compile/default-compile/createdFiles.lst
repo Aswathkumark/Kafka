@@ -1,0 +1,3 @@
+com/example/base_domain/dto/Order.class
+com/example/base_domain/dto/OrderEvent.class
+com/example/base_domain/BaseDomainApplication.class
